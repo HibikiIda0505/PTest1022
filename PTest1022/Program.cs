@@ -22,9 +22,7 @@ namespace PTest1022 {
 
             /*** ●●● ここへ解答を入力 ●●● ***/
             
-
-
-
+            
 
             /*** ●●●●● ここまで ●●●●● ***/
             Console.WriteLine($"結果：{outStr}\n");
@@ -95,7 +93,7 @@ namespace PTest1022 {
 
 
             /*** ●●●●● ここまで ●●●●● ***/
-            Console.WriteLine($"ページの合計は{ pageSum }ページです。");
+            //Console.WriteLine($"ページの合計は{ pageSum }ページです。");
         }
 
         //問題５
